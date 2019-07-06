@@ -20,7 +20,7 @@ def input_string(File):
 
     return List
 
-#C:\Users\asus\Desktop\TheSecondP_TLA-master\TheSecondP_TLA-master\input.txt
+#C:\git\Nazaryeh github\Project2_nazariye-\input_NPDA.txt
 
 
 def main():
